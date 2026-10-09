@@ -82,9 +82,9 @@ copy .env.example .env
 python -m uvicorn app.main:app --reload
 ```
 
-Backend: http://127.0.0.1:8000
+Backend:  http://127.0.0.1:8000
 
-Swagger documentation: http://127.0.0.1:8000/docs
+Swagger documentation:  http://127.0.0.1:8000/docs
 
 ### Frontend
 
@@ -96,7 +96,7 @@ npm install
 npm run dev
 ```
 
-Frontend: http://localhost:5173
+Frontend: http://localhost:5173/
 
 ## Security
 
